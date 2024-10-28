@@ -1,0 +1,1 @@
+/usr/bin/gcc-12 -g CMakeFiles/learnC_2_main.dir/main.c.o -o learnC_2_main  palindrome/libpalindrome_lib.a dp/libdp_lib.a linked_list/liblink_list_lib.a sortings/libsort_lib.a 

@@ -1,0 +1,163 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "palindrome",
+					"jsonFile" : "directory-palindrome-Debug-39fabee8b95467d588ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "palindrome",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "dp",
+					"jsonFile" : "directory-dp-Debug-4eadc29dd8c393988131.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "dp",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "linked_list",
+					"jsonFile" : "directory-linked_list-Debug-a12b1f28b4b14ef6901b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "linked_list",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "sortings",
+					"jsonFile" : "directory-sortings-Debug-064576dc74bb4eca61d2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "sortings",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "learnC_2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "dp_lib::@9e2811e2a49a25c0b7f0",
+					"jsonFile" : "target-dp_lib-Debug-1ed3b7936ea7d9c864ce.json",
+					"name" : "dp_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "learnC_2_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-learnC_2_main-Debug-a929d5f74cd2eef9cfb7.json",
+					"name" : "learnC_2_main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "link_list_lib::@52f4e78c28c861d9067e",
+					"jsonFile" : "target-link_list_lib-Debug-e78214bfcf93acf9263a.json",
+					"name" : "link_list_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "palindrome_lib::@762b8c32c0ef030c03c2",
+					"jsonFile" : "target-palindrome_lib-Debug-f6f511e3a9327fcc534a.json",
+					"name" : "palindrome_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "sort_lib::@8b7f7cf221d8468dce07",
+					"jsonFile" : "target-sort_lib-Debug-5bfc00529f1acf405b83.json",
+					"name" : "sort_lib",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dev/dev/learnC_2/build",
+		"source" : "/home/dev/dev/learnC_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
