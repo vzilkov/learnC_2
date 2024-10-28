@@ -1,2 +1,0 @@
-/usr/bin/ar qc libdp_lib.a CMakeFiles/dp_lib.dir/dp.c.o
-/usr/bin/ranlib libdp_lib.a
