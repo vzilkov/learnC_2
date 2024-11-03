@@ -48,7 +48,7 @@ void selection_sort(int *arr, int len){
 // 10,1,23,12,3,45,78,126,54,333,100,98 //i=5
 int partitioning(int *arr, int start, int end){
     int pivot = arr[end];
-    int i = start;// start-1?
+    int i = start;
     for(int j=start; j<end; j++){
         if(pivot > arr[j]){
             swap(&arr[i], &arr[j]);

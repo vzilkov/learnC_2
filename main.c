@@ -4,6 +4,7 @@
 #include "dp.h"
 #include "linked_list.h"
 #include "sortings.h"
+#include "array.h"
 
 int main(){
     //palindrome
@@ -18,7 +19,7 @@ int main(){
     //linked list
     link_list_main();
     sort_main();
-
+    array_main();
     //Fibonacci
     int Nth_symbol = 20;
     printf("Fibonacci input (Sum of Nth symbol): %d\n", Nth_symbol);

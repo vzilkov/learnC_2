@@ -10,6 +10,7 @@ add_subdirectory(palindrome)
 add_subdirectory(dp)
 add_subdirectory(linked_list)
 add_subdirectory(sortings)
+add_subdirectory(arrays)
 # add_subdirectory(tests)
 
 target_link_libraries(learnC_2_main 
@@ -18,5 +19,6 @@ target_link_libraries(learnC_2_main
                             dp_lib
                             link_list_lib
                             sort_lib
+                            array_lib
                             )
 

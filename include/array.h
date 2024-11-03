@@ -1,0 +1,1 @@
+void array_main();
